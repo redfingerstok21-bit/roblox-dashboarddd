@@ -1,0 +1,12 @@
+{
+  "name": "roblox-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard monitoring pemain Roblox",
+  "main": "api/update.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
